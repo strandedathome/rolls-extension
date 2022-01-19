@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "StorWallet",
+    "message": "PecanRolls Wallet",
     "description": ""
   },
   "appDescription": {
-    "message": "StorWallet",
+    "message": "PecanRolls Wallet",
     "description": ""
   },
   "Send": {
@@ -333,8 +333,8 @@
   "Enable__a__Chain": {
     "message": "启用链"
   },
-  "The__requested__chain__is__not__supported__by__StorWallet__yet": {
-    "message": "StorWallet 尚不支持该链"
+  "The__requested__chain__is__not__supported__by__PecanRolls Wallet__yet": {
+    "message": "PecanRolls Wallet 尚不支持该链"
   },
   "OK": {
     "message": "确定"
@@ -781,22 +781,22 @@
     "message": "恢复初始设置"
   },
   "SetDefaultWalletAlert": {
-    "message": "是否将 StorWallet 设置为默认钱包？"
+    "message": "是否将 PecanRolls Wallet 设置为默认钱包？"
   },
-  "Set__StorWallet__as__default__wallet": {
-    "message": "将 StorWallet 设置为默认钱包"
+  "Set__PecanRolls Wallet__as__default__wallet": {
+    "message": "将 PecanRolls Wallet 设置为默认钱包"
   },
   "Please__refresh__the__website__your__are__viewing": {
     "message": "请刷新正在使用的网页"
   },
   "CameraPermissionTitle": {
-    "message": "允许 StorWallet 使用摄像头"
+    "message": "允许 PecanRolls Wallet 使用摄像头"
   },
   "CameraPermission1": {
-    "message": "允许 StorWallet 在浏览器弹窗中使用摄像头"
+    "message": "允许 PecanRolls Wallet 在浏览器弹窗中使用摄像头"
   },
   "CameraPermission2": {
-    "message": "打开 StorWallet 并再次导入"
+    "message": "打开 PecanRolls Wallet 并再次导入"
   },
   "From": {
     "message": "From"
@@ -861,14 +861,14 @@
   "Insufficient__balance": {
     "message": "余额不足"
   },
-  "AllowStorWalletPermissionsTitle": {
-    "message": "允许 StorWallet 使用权限:"
+  "AllowPecanRolls WalletPermissionsTitle": {
+    "message": "允许 PecanRolls Wallet 使用权限:"
   },
   "LedgerPermission1": {
     "message": "获取 Ledger 的公钥"
   },
   "LedgerPermission2": {
-    "message": "使用 StorWallet 进行文本和交易签名"
+    "message": "使用 PecanRolls Wallet 进行文本和交易签名"
   },
   "Allow": {
     "message": "同意"
