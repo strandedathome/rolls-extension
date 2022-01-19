@@ -44,14 +44,6 @@
         "https://*/*"
       ],
       "run_at": "document_start"
-    },
-    {
-      "matches": [
-        "*://connect.trezor.io/*/popup.html"
-      ],
-      "js": [
-        "vendor/trezor/trezor-content-script.js"
-      ]
     }
   ],
   "permissions": [
