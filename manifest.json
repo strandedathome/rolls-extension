@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Rolls Wallet",
-  "short_name": "Rolls Wallet",
+  "name": "RollsWallet",
+  "short_name": "RollsWallet",
   "version": "0.1",
   "default_locale": "en",
   "description": "Web Wallet for PecanRolls Blockchain",
@@ -23,7 +23,7 @@
       "48": "images/icon-48.png",
       "128": "images/icon-128.png"
     },
-    "default_title": "rollswallet",
+    "default_title": "RollsWallet",
     "default_popup": "popup.html"
   },
   "author": "https://pecanrolls.net/",

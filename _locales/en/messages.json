@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "PecanRolls Wallet",
+    "message": "RollsWallet",
     "description": ""
   },
   "appDescription": {
-    "message": "PecanRolls Wallet",
+    "message": "PecanRolls Web Wallet",
     "description": ""
   },
   "Send": {
@@ -336,8 +336,8 @@
   "Enable__a__Chain": {
     "message": "Enable a Chain"
   },
-  "The__requested__chain__is__not__supported__by__PecanRolls Wallet__yet": {
-    "message": "The requested chain is not supported by PecanRolls Wallet yet"
+  "The__requested__chain__is__not__supported__by__RollsWallet__yet": {
+    "message": "The requested chain is not supported by RollsWallet yet"
   },
   "OK": {
     "message": "OK"
@@ -760,7 +760,7 @@
     "message": "The address you're are trying to import is invalid"
   },
   "importAddressDuplicate": {
-    "message": "The address you're are trying to import is already in PecanRolls Wallet"
+    "message": "The address you're are trying to import is already in RollsWallet"
   },
   "Scan__via__mobile__wallet": {
     "message": "Scan via mobile wallet"
@@ -784,22 +784,22 @@
     "message": "Restore initial setting"
   },
   "SetDefaultWalletAlert": {
-    "message": "Set PecanRolls Wallet as default wallet?"
+    "message": "Set RollsWallet as default wallet?"
   },
-  "Set__PecanRolls Wallet__as__default__wallet": {
-    "message": "Set PecanRolls Wallet as default wallet"
+  "Set__RollsWallet__as__default__wallet": {
+    "message": "Set RollsWallet as default wallet"
   },
   "Please__refresh__the__website__your__are__viewing": {
     "message": "Please refresh the website your are viewing"
   },
   "CameraPermissionTitle": {
-    "message": "Allow PecanRolls Wallet to access the camera"
+    "message": "Allow RollsWallet to access the camera"
   },
   "CameraPermission1": {
-    "message": "Allow PecanRolls Wallet to access the camera in the browser pop-up"
+    "message": "Allow RollsWallet to access the camera in the browser pop-up"
   },
   "CameraPermission2": {
-    "message": "Open PecanRolls Wallet and try import again"
+    "message": "Open RollsWallet and try import again"
   },
   "From": {
     "message": "From"
@@ -864,8 +864,8 @@
   "Insufficient__balance": {
     "message": "Insufficient balance"
   },
-  "AllowPecanRolls WalletPermissionsTitle": {
-    "message": "Allow PecanRolls Wallet permissions to:"
+  "AllowRollsWalletPermissionsTitle": {
+    "message": "Allow RollsWallet permissions to:"
   },
   "LedgerPermission1": {
     "message": "Read public keys from Ledger"
