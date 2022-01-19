@@ -1,17 +1,17 @@
-# StorWallet Browser Extension
+# PecanRolls Browser Extension
 
-StorWallet is an open-source web wallet for Stor Blockchain. Install as browser extension to [Mozilla Firefox](https://addons.mozilla.org/firefox/addon/storwallet/) and to all [Chromium](https://chrome.google.com/webstore/detail/storwallet/ghmhighjdhkjlgeohbhnagoebpngafff) based browsers.
+Rolls Wallet is an open-source web wallet for PecanRolls Blockchain. Install as browser extension to [Mozilla Firefox](https://pecanrolls.net) and to all [Chromium](https://chrome.google.com/webstore/) based browsers.
 
-For more information, see our website at https://storwallet.com
+For more information, see our website at https://pecanrolls.net/wallet
 
 # License
 
 SPDX-License-Identifier: Apache-2.0
 
-Copyright 2022 StorWallet
+Copyright 2022 PecanRolls
 
-Copyright 2022 Goby, Chia Mine, MetaMask
+Copyright 2022 Goby, Chia Mine, MetaMask, Stor
 
 # Note
 
-Use as hot wallet. Use at your own risk. Deploy your own [RPC node](https://github.com/StorWallet/openapi).
+Use as hot wallet. Use at your own risk. Deploy your own [RPC node](https://github.com/strandedathome/openapi).
